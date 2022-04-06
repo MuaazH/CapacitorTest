@@ -1,0 +1,6 @@
+{
+  "appId": "i04.capacitor.test",
+  "appName": "Capacitor Test",
+  "webDir": "src",
+  "bundledWebRuntime": false
+}

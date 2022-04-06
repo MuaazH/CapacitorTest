@@ -1,0 +1,15 @@
+{
+  "name": "capacitor.test",
+  "version": "1.0.0",
+  "description": "capacitor js test",
+  "main": "app.js",
+  "author": "MuaazH (muaaz.h.is@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^3.4.3",
+    "@capacitor/core": "^3.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.4.3"
+  }
+}
